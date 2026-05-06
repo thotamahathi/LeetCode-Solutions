@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [1861-rotating-the-box](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
@@ -37,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
