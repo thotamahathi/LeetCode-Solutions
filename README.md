@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [1861-rotating-the-box](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [3660-jump-game-ix](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [3660-jump-game-ix](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 ## String
 |  |
 | ------- |
