@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [1306-jump-game-iii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
