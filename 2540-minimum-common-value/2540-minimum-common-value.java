@@ -1,21 +1,17 @@
-public class Solution {
+class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
-        Set<Integer> set1 = new HashSet<>();
-
-        // Add the elements from nums1 to set1
-        for (int num : nums1) {
-            set1.add(num);
-        }
-
-        // Search for each element of nums2 in set1
-        // Return the first common element found
-        for (int num : nums2) {
-            if (set1.contains(num)) {
-                return num;
+        int nums1Pointer = 0;
+        int nums2Pointer = 0;
+        while (nums1Pointer < nums1.length && nums2Pointer < nums2.length) {
+            if (nums1[nums1Pointer] == nums2[nums2Pointer]) {
+                return nums1[nums1Pointer];
+            } else if (nums1[nums1Pointer] > nums2[nums2Pointer]) {
+                nums2Pointer++;
+            } else {
+                nums1Pointer++;
             }
         }
 
-        // Return -1 if there are no common elements
         return -1;
     }
 }
