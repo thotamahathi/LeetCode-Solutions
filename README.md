@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [1340-jump-game-v](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 ## String
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [2784-check-if-array-is-good](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
