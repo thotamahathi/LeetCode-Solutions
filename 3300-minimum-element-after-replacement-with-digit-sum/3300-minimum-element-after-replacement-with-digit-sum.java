@@ -1,6 +1,7 @@
 class Solution {
+
     public int minElement(int[] nums) {
-        int ans = Integer.MAX_VALUE; // safer initialization
+        int ans = 37;
         for (int num : nums) {
             int dig = 0;
             while (num > 0) {
