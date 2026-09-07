@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/thotamahathi/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
